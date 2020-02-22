@@ -53,7 +53,10 @@ Use **Hubot-11** app
 
 Run this token in your app:
 
-`HUBOT_SLACK_TOKEN=xoxb-948018646277-948025470981-Knk73dSPwRf1W40EhOPJqPdj ./bin/hubot --adapter slack`
+```
+HUBOT_SLACK_TOKEN=xoxb-948018646277-948025470981-Knk73dSPwRf1W40EhOPJqPdj ./bin/hubot --adapter slack
+```
+
 ======================================================================================================
 
 # Lemonbot
